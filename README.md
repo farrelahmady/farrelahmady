@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=farrelahmady&theme=onedark&show_icons=true&count_private=true)
 ![Github Stats] (https://github-readme-stats.vercel.app/api?username=farrelahmady&theme=onedark&show_icons=true&count_private=true)
 <!--
 **farrelahmady/farrelahmady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
